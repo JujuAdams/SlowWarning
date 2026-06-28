@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__SlowWarningConfig",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__SlowWarningConfig",
+  "parent":{
+    "name":"SlowWarning",
+    "path":"SlowWarning.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
